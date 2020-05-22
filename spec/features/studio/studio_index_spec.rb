@@ -4,7 +4,7 @@ RSpec.describe "Movie Studios", type: :feature do
   before :each do
 
     @studio_1 = Studio.create(name: "Cinema123",
-                               Location: "2080 S. Quebec St.",
+                               location: "2080 S. Quebec St.",
                                movies: @movie_1)
 
     @movie_1 = Movie.create(title: "Peter Pan",

@@ -205,7 +205,8 @@
       "/Users/jpuchalla/Turing/module2/mid_mod/b2-mid-mod/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
           null
         ]
       },
@@ -214,8 +215,14 @@
           1,
           null
         ]
+      },
+      "/Users/jpuchalla/Turing/module2/mid_mod/b2-mid-mod/app/models/studio.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1590163986
+    "timestamp": 1590169608
   }
 }
